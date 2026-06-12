@@ -1,0 +1,12 @@
+{
+  "cli": {
+    "versionControlSystem": "none"
+  },
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
