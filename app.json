@@ -1,27 +1,5 @@
-{
-  "expo": {
-    "name": "Produção Saúde",
-    "slug": "ProducaoSaudeApp",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "package": "com.jomesk2026.producaosaude",
-      "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE"
-      }
-    },
-    "plugins": [
-      "expo-sharing",
-      "expo-status-bar"
-    ],
-    "extra": {
+{"extra": {
       "eas": {
-        "projectId": "a768f7e1-f44a-4d12-97bf-c5d66d896503"
+        "projectId": "7a6a2123-e8d2-4292-ba2d-bce751a5a8ab"
       }
     }
-  }
-}
