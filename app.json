@@ -1,5 +1,31 @@
-{"extra": {
+{
+  "expo": {
+    "name": "Produção Saúde",
+    "slug": "producaosaudeapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jomesk2026.producaosaudeapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
       "eas": {
         "projectId": "7a6a2123-e8d2-4292-ba2d-bce751a5a8ab"
       }
     }
+  }
+}
