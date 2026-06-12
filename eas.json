@@ -4,6 +4,9 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
+      },
+      "env": {
+        "EAS_NO_NPM_CI": "1"
       }
     }
   }
