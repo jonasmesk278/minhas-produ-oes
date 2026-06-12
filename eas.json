@@ -1,7 +1,4 @@
 {
-  "cli": {
-    "versionControlSystem": "none"
-  },
   "build": {
     "preview": {
       "android": {
