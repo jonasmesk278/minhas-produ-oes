@@ -4,9 +4,6 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "env": {
-        "EAS_BUILD_NOCACHE": "1"
       }
     }
   }
