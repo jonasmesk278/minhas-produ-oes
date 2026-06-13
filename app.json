@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Produção Saúde",
+    "name": "producaosaudeapp",
     "slug": "producaosaudeapp",
-    "owner": "jomesk2026s-team",
     "version": "1.0.0",
-    "sdkVersion": "52.0.0",
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -15,12 +15,24 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.jomesk2026.producaosaudeapp"
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.iran.producaosaudeapp"
     },
-    "extra": {
-      "eas": {
-        "projectId": "7a6a2123-e8d2-4292-ba2d-bce751a5a8ab"
-      }
-    }
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.9.25"
+          }
+        }
+      ]
+    ]
   }
 }
