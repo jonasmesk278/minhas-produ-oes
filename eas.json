@@ -6,7 +6,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EAS_NO_NPM_CI": "1"
+        "EAS_BUILD_NOCACHE": "1"
       }
     }
   }
