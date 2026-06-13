@@ -324,7 +324,7 @@ const styles = StyleSheet.create({
 });
 
 // ESTRUTURA DOS DADOS MAPEADA FIELMENTE DA SUA IMAGEM
-const DICIONARIO_PRODUCAO = {
+
   "Crianças (< 1 ano)": [
     "Nascidos vivos no mês", "1ª Consulta até o 30º dia de vida", "RN pesados ao nascer, com peso < 2500g",
     "Visitas domiciliares antes de 7 dias após o nascimento", "Crianças de 0 a 6 meses", "2 visitas do ACS até 6 meses",
@@ -382,5 +382,4 @@ const DICIONARIO_PRODUCAO = {
     "De 0 a 6 dias", "De 7 a 28 dias", "De 29 dias a 11 meses e 29 dias", "Fetal", "De menor de 1 ano",
     "De mulheres de 10 a 49 anos", "Maternos", "Domicílio ou via pública", "De adolescentes (10-19 anos) por violência",
     "Outros óbitos", "Total de óbito", "Hospitalizações", "TOTAL DE VISITAS"
-  ]
-};
+  ];
