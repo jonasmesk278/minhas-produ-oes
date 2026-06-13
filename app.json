@@ -2,6 +2,7 @@
   "expo": {
     "name": "producaosaudeapp",
     "slug": "producaosaudeapp",
+    "owner": "jomesk2026s-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
