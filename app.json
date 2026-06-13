@@ -3,8 +3,8 @@
     "name": "Produção Saúde",
     "slug": "producaosaudeapp",
     "version": "1.0.0",
+    "sdkVersion": "56.0.11",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "resizeMode": "contain",
@@ -14,13 +14,7 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
-      },
       "package": "com.jomesk2026.producaosaudeapp"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
