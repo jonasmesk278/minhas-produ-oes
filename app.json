@@ -3,7 +3,7 @@
     "name": "Produção Saúde",
     "slug": "producaosaudeapp",
     "version": "1.0.0",
-    "sdkVersion": "56.0.11",
+    "sdkVersion": "51.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "splash": {
