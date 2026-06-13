@@ -1,13 +1,18 @@
 {
   "expo": {
-    "name": "producaosaudeapp",
+    "name": "Produção ACS",
     "slug": "producaosaudeapp",
     "owner": "jomesk2026s-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
     "android": {
-      "package": "com.iran.producaosaudeapp"
+      "package": "com.iran.producaosaudeapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0284c7"
+      }
     },
     "extra": {
       "eas": {
